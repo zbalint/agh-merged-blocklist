@@ -38,3 +38,5 @@
 @@||whonix.org^$important
 ||www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^$important
 ||metrics.icloud.com^$important
+@@||history.google.com^$important
+
