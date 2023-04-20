@@ -37,3 +37,4 @@
 ||ugirot.com^$important
 @@||whonix.org^$important
 ||www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com^$important
+||metrics.icloud.com^$important
